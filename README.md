@@ -4,7 +4,10 @@
 
 **ConectaAtyrá** es una plataforma de red social diseñada para conectar profesionales, compartir publicaciones, gestionar eventos y facilitar la comunicación mediante mensajería directa.
 
-**Aclaracion**: Este sistema fue desarrollado por mí como **programador/desarrollador profesional contratado** para proporcionar la implementación técnica de un proyecto de tesis del área de Ingeniería Informática. La **la defensa de la tesis pertenecen exclusivamente a la estudiante** que contrató mis servicios de desarrollo. Mi rol fue estrictamente técnico: análisis, diseño, programación y documentación del software.
+**Aclaración**: Este sistema fue desarrollado **por mí como programador/desarrollador profesional contratado**, para proporcionar la implementación técnica de un proyecto de tesis del área de Ingeniería Informática.  
+**La defensa y el tema de la tesis pertenecen exclusivamente a la estudiante que contrató mis servicios.**  
+Mi rol fue estrictamente técnico: **análisis, diseño, programación e implementación del software, así como documentación técnica.**
+
 
 ---
 
